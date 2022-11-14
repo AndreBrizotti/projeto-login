@@ -13,6 +13,7 @@
         float: left;
         width: 30%;
         height: 100%;
+        margin-right: 10px;
     }
 
     section#login > div#fomrulario {
